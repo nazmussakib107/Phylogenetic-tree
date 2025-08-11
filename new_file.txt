@@ -1,0 +1,1 @@
+iqtree -T AUTO -s ALN.fasta -m MFP -nt AUTO -bb 1000
